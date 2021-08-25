@@ -47,3 +47,25 @@
 .box{
     margin: 4em;
 }
+.skill h1{
+    text-align: center;
+     font-size: 3em;
+}
+.progress{
+    width: 75%;
+    background-color: #fff;
+    float: right;
+}
+.skill-topic{
+    text-align: center;
+    margin-left: 10%;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.pro-bar{
+    margin: 1.5em;
+}
+.project h1{
+     text-align: center;
+     font-size: 3em;
+}

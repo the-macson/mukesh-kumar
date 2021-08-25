@@ -20,7 +20,7 @@ export default function Service() {
         <div className="row">
           <BoxService2
             heading="Open Source Contributor"
-            about="I can Develop Websites using the latest technology like react js, MongoDB,  Node js and Express js. I can Create Simple User Friendly and Mobile Responsive Websites."
+            about="I am open Source Contributor. I love to contribute in open source projects using my coding skill. In last time I contributed in Let's Grow More Summer of Code and Currenty I am contributing in some web Projects."
           />
           <BoxService src={OpenSourc} />
         </div>

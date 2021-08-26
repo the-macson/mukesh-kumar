@@ -31,7 +31,6 @@
   margin-bottom: 2em;
 }
 .BoxService img {
-  text-align: center;
   width: 35em;
   margin: auto;
   display: block;
@@ -78,11 +77,7 @@
   margin: auto;
   display: block;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  /* border: 2px solid #AE00FB; */
 }
-/* .project-pic img:hover{
-    /* width: 22.5em; */
-/* } */
 .project-pic {
   margin-top: 5em;
   margin-bottom: 5em;
@@ -143,29 +138,43 @@ a:hover {
   font-size: 1.5em;
   font-weight: 500;
 }
-.auther{
-    text-align: center;
-    font-weight: 500;
-    font-size: 1.2em;
+.auther {
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.2em;
 }
-.social img{
-    width: 3em;
-    margin: 1.5em;
-    border-radius: 50%;
+.social img {
+  width: 3em;
+  margin: 1.5em;
+  border-radius: 50%;
 }
-.social{
+.social {
   align-items: center;
   text-align: center;
   margin-top: 2.5em;
 }
-.social img:hover{
+.social img:hover {
   transition: 1s;
   opacity: 0.8;
-  border: 3px solid #B5FFD9;
+  border: 3px solid #b5ffd9;
 }
-.social2 img{
+.social2 img {
   text-align: center;
   width: 25em;
   margin: auto;
   display: block;
+}
+
+/* reponsive code */
+@media only screen and (max-width: 576px) {
+  .BoxService img {
+    text-align: center;
+    width: 20em;
+  }
+  .intro h1 {
+    font-size: 3em;
+  }
+  .intro p {
+    font-size: 1.5em;
+  }
 }

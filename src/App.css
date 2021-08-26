@@ -1,19 +1,20 @@
-.nav {
+/* .nav {
   background-color: #ae00fb;
   color: #fff;
   padding: 0.75em;
   padding-left: 2em;
-}
-.nav a {
+} */
+/* .nav a {
   text-decoration: none;
   color: #fff;
-}
+} */
 .userpic {
   padding: 4em;
-  text-align: center;
 }
 .userpic img {
   width: 17em;
+  margin: auto;
+  display: block;
 }
 .intro {
   text-align: center;
@@ -71,7 +72,6 @@
   font-size: 3em;
 }
 .project-pic img {
-  text-align: center;
   width: 23em;
   border-radius: 1.2em;
   margin: auto;
@@ -159,7 +159,6 @@ a:hover {
   border: 3px solid #b5ffd9;
 }
 .social2 img {
-  text-align: center;
   width: 25em;
   margin: auto;
   display: block;
@@ -177,4 +176,28 @@ a:hover {
   .intro p {
     font-size: 1.5em;
   }
+  .skill-topic {
+  margin-left: 0;
+}
+.pro-bar {
+  margin: 1em;
+}
+.project-pic img {
+  width: 20em;
+}
+.project-pic {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.project-about {
+  margin-top: 3.5em;
+  margin-bottom: 3.5em;
+  text-align: center;
+}
+.project-about p {
+  margin: 1.5em;
+}
+.social2 img {
+  width: 20em;
+}
 }

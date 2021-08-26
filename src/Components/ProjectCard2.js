@@ -8,12 +8,12 @@ export default function ProjectCard2(props) {
         <div className="container btn-box">
           <button className="btn">
             <a href={props.pre} target="_blank" rel="noreferrer">
-              PREVIEW{" "}
+              {props.prename}
             </a>
           </button>
           <button className="btn">
             <a href={props.code} target="_blank" rel="noreferrer">
-              CODE{" "}
+              CODE
             </a>
           </button>
         </div>

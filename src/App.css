@@ -1,131 +1,171 @@
-.nav{
-    background-color: #AE00FB;
-    color: #fff;
-    padding: 0.75em;
-    padding-left: 2em;
+.nav {
+  background-color: #ae00fb;
+  color: #fff;
+  padding: 0.75em;
+  padding-left: 2em;
 }
-.nav a{
-    text-decoration: none;
-    color: #fff;
+.nav a {
+  text-decoration: none;
+  color: #fff;
 }
-.userpic{
-    padding: 4em;
-    text-align: center;
+.userpic {
+  padding: 4em;
+  text-align: center;
 }
-.userpic img{
-    width: 17em;
+.userpic img {
+  width: 17em;
 }
-.intro{
-    text-align: center;
+.intro {
+  text-align: center;
 }
-.intro h1{
-    font-size: 5em;
+.intro h1 {
+  font-size: 5em;
 }
-.intro p{
-    font-size: 2em;
+.intro p {
+  font-size: 2em;
 }
-.Service h1{
-    text-align: center;
-    margin-top: 2em;
-    font-weight: 600;
-    margin-bottom: 2em;
+.Service h1 {
+  text-align: center;
+  margin-top: 2em;
+  font-weight: 600;
+  margin-bottom: 2em;
 }
-.BoxService img{
-    text-align: center;
-    width: 35em;
-    margin: auto;
-    display: block;
+.BoxService img {
+  text-align: center;
+  width: 35em;
+  margin: auto;
+  display: block;
 }
-.BoxService2 h1{
-    text-align: center;
-    font-size: 3em;
+.BoxService2 h1 {
+  text-align: center;
+  font-size: 3em;
 }
-.BoxService2 p{
-    text-align: center;
-    margin: 2em;
-    font-size: 1.5em;
-    font-weight: 500;
+.BoxService2 p {
+  text-align: center;
+  margin: 2em;
+  font-size: 1.5em;
+  font-weight: 500;
 }
-.box{
-    margin: 4em;
+.box {
+  margin: 4em;
 }
-.skill h1{
-    text-align: center;
-     font-size: 3em;
+.skill h1 {
+  text-align: center;
+  font-size: 3em;
 }
-.progress{
-    width: 75%;
-    background-color: #fff;
-    float: right;
+.progress {
+  width: 75%;
+  background-color: #fff;
+  float: right;
 }
-.skill-topic{
-    text-align: center;
-    margin-left: 6%;
-    font-size: 1.2em;
-    font-weight: 700;
+.skill-topic {
+  text-align: center;
+  margin-left: 6%;
+  font-size: 1.2em;
+  font-weight: 700;
 }
-.pro-bar{
-    margin: 1.5em;
+.pro-bar {
+  margin: 1.5em;
 }
-.project h1{
-     text-align: center;
-     font-size: 3em;
+.project h1 {
+  text-align: center;
+  font-size: 3em;
 }
-.project-pic img{
-    text-align: center;
-    width: 23em;
-    border-radius: 1.2em;
-    margin: auto;
-    display: block;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    border: 2px solid #AE00FB;
+.project-pic img {
+  text-align: center;
+  width: 23em;
+  border-radius: 1.2em;
+  margin: auto;
+  display: block;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  /* border: 2px solid #AE00FB; */
 }
 /* .project-pic img:hover{
     /* width: 22.5em; */
 /* } */
-.project-pic{
-    margin-top: 4em;
+.project-pic {
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
-.project-about{
-    margin-top: 4em;
-    text-align: center;
+.project-about {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  text-align: center;
 }
-.project-about p{
+.project-about p {
+  text-align: center;
+  margin: 2em;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+.project-about h1 {
+  font-size: 3em;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:hover {
+  color: #fff;
+}
+.btn-box {
+  align-items: center;
+}
+.btn {
+  margin: 0 2em;
+  border: 2px solid #ae00fb;
+  background-color: #fff;
+  color: #ae00fb;
+  font-weight: 600;
+  padding: 0.3em 0.5em;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  /* width: 5em; */
+}
+.btn:hover {
+  background-color: #ae00fb;
+  color: #fff;
+  border: 2px solid #fff;
+  transition: 1s;
+}
+.btn a {
+  color: #ae00fb;
+}
+.btn a:hover {
+  color: #fff;
+}
+.contact h1 {
+  text-align: center;
+  font-size: 3em;
+}
+.contact p {
+  text-align: center;
+  margin: 2em;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+.auther{
     text-align: center;
-    margin: 2em;
-    font-size: 1.5em;
     font-weight: 500;
+    font-size: 1.2em;
 }
-.project-about h1{
-    font-size: 3em;
+.social img{
+    width: 3em;
+    margin: 1.5em;
+    border-radius: 50%;
 }
-a{
-    text-decoration: none;
-    color: #fff;
+.social{
+  align-items: center;
+  text-align: center;
+  margin-top: 2.5em;
 }
-a:hover{
-    color: #fff;
+.social img:hover{
+  transition: 1s;
+  opacity: 0.8;
+  border: 3px solid #B5FFD9;
 }
-.btn-box{
-    align-items: center;
-}
-.btn{
-    margin: 0 2em;
-    border: 2px solid #AE00FB;
-    background-color: #fff;
-    color: #AE00FB;
-    font-weight: 600;
-    padding: 0.3em 0.5em;
-    width: 5em;
-}
-.btn:hover{
-    background-color: #AE00FB;
-    color: #fff;
-    border: 2px solid #fff;
-}
-.btn a{
-    color: #AE00FB;
-}
-.btn a:hover{
-    color: #fff;
+.social2 img{
+  text-align: center;
+  width: 25em;
+  margin: auto;
+  display: block;
 }

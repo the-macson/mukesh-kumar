@@ -4,6 +4,7 @@ import Head1 from "./Components/Head1.js";
 import Service from './Components/Service';
 import Skill from './Components/Skill';
 import Project from './Components/Project';
+import Contact from './Components/Contact'
 function App() {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ function App() {
       <Service/>
       <Skill/>
       <Project/>
+      <Contact/>
     </div>
   );
 }

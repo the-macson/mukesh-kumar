@@ -9,7 +9,7 @@ export default function Service() {
       <h1>More About Me</h1>
       <div className="container box">
         <div className="row">
-          <BoxService src={Webdev} order="col-md BoxService" />
+          <BoxService src={Webdev} order="col-lg-6 BoxService" />
           <BoxService2
             heading="Web Developer"
             about="I can Develop Websites using the latest technology like react js, MongoDB,  Node js and Express js. I can Create Simple User Friendly and Mobile Responsive Websites."
@@ -18,7 +18,7 @@ export default function Service() {
       </div>
       <div className="container box">
         <div className="row">
-          <BoxService src={OpenSourc} order="col-md order-lg-last BoxService" />
+          <BoxService src={OpenSourc} order="col-lg-6 order-lg-last BoxService" />
           <BoxService2
             heading="Open Source Contributor"
             about="I am open Source Contributor. I love to contribute in open source projects using my coding skill. In last time I contributed in Let's Grow More Summer of Code and Currenty I am contributing in some web Projects."

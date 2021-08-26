@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mukesh-kumar/static/css/main.d05d9faf.chunk.css",
+    "main.js": "/mukesh-kumar/static/js/main.484ac13e.chunk.js",
+    "main.js.map": "/mukesh-kumar/static/js/main.484ac13e.chunk.js.map",
+    "runtime-main.js": "/mukesh-kumar/static/js/runtime-main.adb25b30.js",
+    "runtime-main.js.map": "/mukesh-kumar/static/js/runtime-main.adb25b30.js.map",
+    "static/js/2.38263d88.chunk.js": "/mukesh-kumar/static/js/2.38263d88.chunk.js",
+    "static/js/2.38263d88.chunk.js.map": "/mukesh-kumar/static/js/2.38263d88.chunk.js.map",
+    "static/js/3.c9802ea8.chunk.js": "/mukesh-kumar/static/js/3.c9802ea8.chunk.js",
+    "static/js/3.c9802ea8.chunk.js.map": "/mukesh-kumar/static/js/3.c9802ea8.chunk.js.map",
+    "index.html": "/mukesh-kumar/index.html",
+    "static/css/main.d05d9faf.chunk.css.map": "/mukesh-kumar/static/css/main.d05d9faf.chunk.css.map",
+    "static/js/2.38263d88.chunk.js.LICENSE.txt": "/mukesh-kumar/static/js/2.38263d88.chunk.js.LICENSE.txt",
+    "static/media/Screenshot (49).43cb8fd5.png": "/mukesh-kumar/static/media/Screenshot (49).43cb8fd5.png",
+    "static/media/Screenshot (50).71fbf0b5.png": "/mukesh-kumar/static/media/Screenshot (50).71fbf0b5.png",
+    "static/media/Screenshot (52).020d3291.png": "/mukesh-kumar/static/media/Screenshot (52).020d3291.png",
+    "static/media/Screenshot (53).d2c26cc8.png": "/mukesh-kumar/static/media/Screenshot (53).d2c26cc8.png",
+    "static/media/Screenshot (54).e3c175c5.png": "/mukesh-kumar/static/media/Screenshot (54).e3c175c5.png",
+    "static/media/avataaars.058b7605.png": "/mukesh-kumar/static/media/avataaars.058b7605.png",
+    "static/media/facebook.177e21a8.png": "/mukesh-kumar/static/media/facebook.177e21a8.png",
+    "static/media/github.553c6615.png": "/mukesh-kumar/static/media/github.553c6615.png",
+    "static/media/instagram.4d7788dd.png": "/mukesh-kumar/static/media/instagram.4d7788dd.png",
+    "static/media/linkedin.1dd143a7.png": "/mukesh-kumar/static/media/linkedin.1dd143a7.png",
+    "static/media/twitter.e3a0a551.png": "/mukesh-kumar/static/media/twitter.e3a0a551.png",
+    "static/media/undraw_Coding_re_iv62.d232839e.svg": "/mukesh-kumar/static/media/undraw_Coding_re_iv62.d232839e.svg",
+    "static/media/undraw_Social_ideas_re_j5v4.ad55c29f.svg": "/mukesh-kumar/static/media/undraw_Social_ideas_re_j5v4.ad55c29f.svg",
+    "static/media/undraw_Web_developer_re_h7ie.c2958914.svg": "/mukesh-kumar/static/media/undraw_Web_developer_re_h7ie.c2958914.svg",
+    "static/media/youtube.d1cfc843.png": "/mukesh-kumar/static/media/youtube.d1cfc843.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adb25b30.js",
+    "static/js/2.38263d88.chunk.js",
+    "static/css/main.d05d9faf.chunk.css",
+    "static/js/main.484ac13e.chunk.js"
+  ]
+}

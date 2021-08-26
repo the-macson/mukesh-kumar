@@ -21,24 +21,48 @@ export default function Contact() {
           </div>
           <div className="col-md social">
             <div>
-              <a href="/">
+              <a
+                href="https://www.linkedin.com/in/mukesh-kumar-macson/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={Linkedin} alt="" />
               </a>
-              <a href="/">
+              <a
+                href="https://github.com/the-macson"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={Github} alt="" />
               </a>
-              <a href="/">
+              <a
+                href="https://www.youtube.com/channel/UCplpy8pQrTiT0XlSOwCkZ3A"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={Youtube} alt="" />
               </a>
             </div>
             <div>
-              <a href="/">
+              <a
+                href="https://www.facebook.com/profile.php?id=100024283731639"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={FaceBook} alt="" />
               </a>
-              <a href="/">
+              <a
+                href="https://twitter.com/the_macson"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={Twitter} alt="" />
               </a>
-              <a href="/">
+              <a
+                href="https://www.instagram.com/the_macson/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={Instagram} alt="" />
               </a>
             </div>

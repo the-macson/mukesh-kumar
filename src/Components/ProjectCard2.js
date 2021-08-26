@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function ProjectCard2(props) {
     return (
-      <div className="col-md-6 project-about">
+      <div className={props.order}>
         <h1>{props.heading}</h1>
         <p>{props.about}</p>
         <div className="container btn-box">

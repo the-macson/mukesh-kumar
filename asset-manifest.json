@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mukesh-kumar/static/css/main.d03faa82.chunk.css",
+    "main.css": "/mukesh-kumar/static/css/main.064ac6c3.chunk.css",
     "main.js": "/mukesh-kumar/static/js/main.790e2799.chunk.js",
     "main.js.map": "/mukesh-kumar/static/js/main.790e2799.chunk.js.map",
     "runtime-main.js": "/mukesh-kumar/static/js/runtime-main.adb25b30.js",
@@ -10,7 +10,7 @@
     "static/js/3.c9802ea8.chunk.js": "/mukesh-kumar/static/js/3.c9802ea8.chunk.js",
     "static/js/3.c9802ea8.chunk.js.map": "/mukesh-kumar/static/js/3.c9802ea8.chunk.js.map",
     "index.html": "/mukesh-kumar/index.html",
-    "static/css/main.d03faa82.chunk.css.map": "/mukesh-kumar/static/css/main.d03faa82.chunk.css.map",
+    "static/css/main.064ac6c3.chunk.css.map": "/mukesh-kumar/static/css/main.064ac6c3.chunk.css.map",
     "static/js/2.38263d88.chunk.js.LICENSE.txt": "/mukesh-kumar/static/js/2.38263d88.chunk.js.LICENSE.txt",
     "static/media/Screenshot (49).43cb8fd5.png": "/mukesh-kumar/static/media/Screenshot (49).43cb8fd5.png",
     "static/media/Screenshot (50).71fbf0b5.png": "/mukesh-kumar/static/media/Screenshot (50).71fbf0b5.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.adb25b30.js",
     "static/js/2.38263d88.chunk.js",
-    "static/css/main.d03faa82.chunk.css",
+    "static/css/main.064ac6c3.chunk.css",
     "static/js/main.790e2799.chunk.js"
   ]
 }

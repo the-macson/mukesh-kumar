@@ -49,14 +49,14 @@ export default function Project() {
           <ProjectCard
             src={TextUt}
             order="col-lg-6 order-lg-first project-pic"
-            pre="https://github.com/the-macson/text-utilities"
+            pre="https://the-macson.github.io/text-utilities/"
           />
           <ProjectCard2
             order="col-lg-6 order-lg-last project-about"
             heading="Text Utils"
             about="In this Project I created Text Utils application with the help of React js technology. Using this application you can Analyze your text and also perform some opertion on your text."
-            prename="PREVIEW SOON"
-            pre="#"
+            prename="PREVIEW"
+            pre="https://the-macson.github.io/text-utilities/"
             code="https://github.com/the-macson/text-utilities"
           />
         </div>
